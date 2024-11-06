@@ -6,7 +6,7 @@
       "Desc_Full": "1. No cheating or hacks\n2. No glitching or exploiting bugs\n3. No spamming in chat\n4. Be respectful to other players",
       "Desc_Server_List": "<color=#fecb08>NO ADMINS | NO KITS | NO TPA | NO VAULT | NO VIP",
       "Login_Token": "",
-      "BookmarkHost": "",
+      "BookmarkHost": "https://restoremonarchy.com/openapi/v1/unturnedservers/eu1/bookmark",
       "Monetization": "None",
       "Links": null
     },
@@ -339,7 +339,7 @@
         "Melee_Repair_Multiplier": 1.0,
         "Max_Instances_Tiny": 4,
         "Max_Instances_Small": 8,
-        "Max_Instances_Medium": 16,
+        "Max_Instances_Medium": 32,
         "Max_Instances_Large": 32,
         "Max_Instances_Insane": 64
       },
@@ -511,7 +511,7 @@
         "Hitmarkers": true,
         "Crosshair": true,
         "Ballistics": true,
-        "Chart": false,
+        "Chart": true,
         "Satellite": false,
         "Compass": false,
         "Group_Map": true,

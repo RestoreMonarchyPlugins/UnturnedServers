@@ -2,8 +2,8 @@
     "Browser": {
       "Icon": "https://restoremonarchy.com/img/branding/logo.png",
       "Thumbnail": "https://restoremonarchy.com/img/branding/logo.png",
-      "Desc_Hint": "",
-      "Desc_Full": "",
+      "Desc_Hint": "<color=#fecb08>NO ADMINS | NO KITS | NO TPA | NO VAULT | NO VIP",
+      "Desc_Full": "1. No cheating or hacks\n2. No glitching or exploiting bugs\n3. No spamming in chat\n4. Be respectful to other players",
       "Desc_Server_List": "<color=#fecb08>NO ADMINS | NO KITS | NO TPA | NO VAULT | NO VIP",
       "Login_Token": "",
       "BookmarkHost": "",

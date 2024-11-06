@@ -8,7 +8,20 @@
       "Login_Token": "",
       "BookmarkHost": "https://restoremonarchy.com//openapi/v1/unturnedservers/us1/bookmark",
       "Monetization": "None",
-      "Links": null
+      "Links": [
+        {
+            "Message": "<color=#fdcb08>Server list and guide</color>",
+            "Url": "https://restoremonarchy.com/unturnedservers"
+        },
+        {
+            "Message": "<color=white>Discord Server</color>",
+            "Url": "https://discord.gg/KZv8VSKQqQ"
+        },
+        {
+            "Message": "<color=#FF0000>YouTube Channel</color>",
+            "Url": "https://www.youtube.com/@RestoreMonarchy"
+        }
+      ]
     },
     "Server": {
       "VAC_Secure": true,

@@ -3,14 +3,14 @@
       "Icon": "https://restoremonarchy.com/img/branding/logo.png",
       "Thumbnail": "https://restoremonarchy.com/img/branding/logo.png",
       "Desc_Hint": "<color=#fecb08>NO ADMINS | NO KITS | NO TPA | NO VAULT | NO VIP",
-      "Desc_Full": "1. No cheating or hacks\n2. No glitching or exploiting bugs\n3. No spamming in chat\n4. Be respectful to other players",
+      "Desc_Full": "<b>Server Rules</b>\n1. No cheating or hacks\n2. No glitching or exploiting bugs\n3. No spamming in chat\n4. Be respectful to other players",
       "Desc_Server_List": "<color=#fecb08>NO ADMINS | NO KITS | NO TPA | NO VAULT | NO VIP",
       "Login_Token": "",
       "BookmarkHost": "https://restoremonarchy.com/openapi/v1/unturnedservers/sg1/bookmark",
       "Monetization": "None",
       "Links": [
         {
-            "Message": "<color=#fdcb08>Server list and guide</color>",
+            "Message": "<color=#fdcb08>Server List and Guide</color>",
             "Url": "https://restoremonarchy.com/unturnedservers"
         },
         {

@@ -6,7 +6,7 @@
       "Desc_Full": "<b>Server Rules</b>\n1. No cheating or hacks\n2. No glitching or exploiting bugs\n3. No spamming in chat\n4. Be respectful to other players",
       "Desc_Server_List": "<color=#fecb08>NO ADMINS | NO KITS | NO TPA | NO VAULT | NO VIP",
       "Login_Token": "",
-      "BookmarkHost": "https://restoremonarchy.com//openapi/v1/unturnedservers/us1/bookmark",
+      "BookmarkHost": "https://restoremonarchy.com/openapi/v1/unturnedservers/us1/bookmark",
       "Monetization": "None",
       "Links": [
         {

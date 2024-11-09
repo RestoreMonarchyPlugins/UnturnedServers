@@ -352,7 +352,7 @@
         "Melee_Repair_Multiplier": 1.0,
         "Max_Instances_Tiny": 4,
         "Max_Instances_Small": 8,
-        "Max_Instances_Medium": 32,
+        "Max_Instances_Medium": 24,
         "Max_Instances_Large": 32,
         "Max_Instances_Insane": 64
       },

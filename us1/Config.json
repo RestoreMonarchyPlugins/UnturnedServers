@@ -419,8 +419,8 @@
         "Melee_Damage_Multiplier": 1.0,
         "Melee_Repair_Multiplier": 1.0,
         "Allow_Item_Placement_On_Vehicle": true,
-        "Allow_Trap_Placement_On_Vehicle": true,
-        "Max_Item_Distance_From_Hull": 64.0,
+        "Allow_Trap_Placement_On_Vehicle": false,
+        "Max_Item_Distance_From_Hull": 8.0,
         "Max_Trap_Distance_From_Hull": 16.0
       },
       "Structures": {

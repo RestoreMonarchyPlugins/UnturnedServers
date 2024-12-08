@@ -72,7 +72,7 @@
     },
     "Easy": {
       "Items": {
-        "Spawn_Chance": 0.35,
+        "Spawn_Chance": 1.0,
         "Despawn_Dropped_Time": 600.0,
         "Despawn_Natural_Time": 900.0,
         "Respawn_Time": 50.0,
@@ -111,12 +111,12 @@
         "Max_Instances_Tiny": 4,
         "Max_Instances_Small": 8,
         "Max_Instances_Medium": 16,
-        "Max_Instances_Large": 32,
+        "Max_Instances_Large": 64,
         "Max_Instances_Insane": 64
       },
       "Zombies": {
         "Spawn_Chance": 0.2,
-        "Loot_Chance": 0.55,
+        "Loot_Chance": 1.0,
         "Crawler_Chance": 0.0,
         "Sprinter_Chance": 0.0,
         "Flanker_Chance": 0.0,
@@ -164,7 +164,7 @@
         "Max_Instances_Tiny": 4,
         "Max_Instances_Small": 8,
         "Max_Instances_Medium": 16,
-        "Max_Instances_Large": 32,
+        "Max_Instances_Large": 128,
         "Max_Instances_Insane": 64,
         "Weapons_Use_Player_Damage": false
       },
@@ -353,7 +353,7 @@
         "Max_Instances_Tiny": 4,
         "Max_Instances_Small": 8,
         "Max_Instances_Medium": 16,
-        "Max_Instances_Large": 42,
+        "Max_Instances_Large": 64,
         "Max_Instances_Insane": 64
       },
       "Zombies": {

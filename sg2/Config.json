@@ -38,7 +38,7 @@
       "Enable_Kick_Input_Spam": false,
       "Enable_Kick_Input_Timeout": false,
       "Enable_Scheduled_Shutdown": true,
-      "Scheduled_Shutdown_Time": "7:30 pm",
+      "Scheduled_Shutdown_Time": "7:15 pm",
       "Scheduled_Shutdown_Warnings": [
         "00:30:00",
         "00:15:00",
